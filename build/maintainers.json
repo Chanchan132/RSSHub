@@ -1094,6 +1094,9 @@
   "/ccf/tfbd/:caty/:id": [
     "tudou027"
   ],
+  "/ccfa/:type?": [
+    "nczitzk"
+  ],
   "/ccnu/career": [
     "jackyu1996"
   ],
@@ -1600,6 +1603,9 @@
   ],
   "/devolverdigital/blog": [
     "XXY233"
+  ],
+  "/devtrium/": [
+    "Xy2002"
   ],
   "/dewu/declaration/:categoryId?": [
     "blade0910"
@@ -2472,6 +2478,10 @@
     "nczitzk"
   ],
   "/gov/cmse/*": [],
+  "/gov/cn/news/:uid": [
+    "EsuRt",
+    "howfool"
+  ],
   "/gov/cnnic/*": [],
   "/gov/csrc/auditstatus/:apply_id": [
     "hillerliao"
@@ -2579,13 +2589,17 @@
   "/gov/mot/:category{.+}?": [
     "ladeng07"
   ],
-  "/gov/ndrc/fggz/:category{.+}?": [],
-  "/gov/ndrc/xwdt/:category{.+}?": [],
-  "/gov/nea/sjzz/ghs": [
+  "/gov/ndrc/fggz/:category{.+}?": [
     "nczitzk"
   ],
-  "/gov/news/:uid": [
-    "EsuRt"
+  "/gov/ndrc/xwdt/:category{.+}?": [
+    "nczitzk"
+  ],
+  "/gov/ndrc/zfxxgk/iteminfo": [
+    "howfool"
+  ],
+  "/gov/nea/sjzz/ghs": [
+    "nczitzk"
   ],
   "/gov/nifdc/:path{.+}?": [],
   "/gov/nmpa/*": [],
@@ -3762,6 +3776,9 @@
   "/lmu/jobs": [
     "StarDxxx"
   ],
+  "/lofter/collection/:collectionID": [
+    "SrakhiuMeow"
+  ],
   "/lofter/tag/:name?/:type?": [
     "hoilc",
     "nczitzk",
@@ -4567,6 +4584,10 @@
   "/oceanengine/index/:keyword/:channel?": [
     "Jkker"
   ],
+  "/oct0pu5/": [
+    "octopus058",
+    "wiketool"
+  ],
   "/odaily/activity": [
     "nczitzk"
   ],
@@ -4824,6 +4845,9 @@
   "/pixiv/user/:id": [
     "DIYgod"
   ],
+  "/pixivision/:lang/:category?": [
+    "SnowAgar25"
+  ],
   "/piyao/jrpy": [
     "Fatpandac"
   ],
@@ -4992,6 +5016,9 @@
   ],
   "/qianzhan/analyst/rank/:type?": [
     "moke8"
+  ],
+  "/qiche365/recall/:channel": [
+    "huanfe1"
   ],
   "/qidian/author/:id": [
     "miles170"
@@ -5347,9 +5374,6 @@
   "/sdu/cmse/:type?": [
     "Ji4n1ng"
   ],
-  "/sdu/cs/:type?": [
-    "Ji4n1ng"
-  ],
   "/sdu/epe/:type?": [
     "Ji4n1ng"
   ],
@@ -5358,6 +5382,10 @@
   ],
   "/sdu/sc/:type?": [
     "Ji4n1ng"
+  ],
+  "/sdu/cs/index/:type?": [
+    "Ji4n1ng",
+    "wiketool"
   ],
   "/sdu/wh/jwc/:column?": [
     "kxxt"
@@ -5648,6 +5676,9 @@
   "/soundofhope/:channel/:id": [
     "Fatpandac"
   ],
+  "/soundon/p/:id": [
+    "TonyRL"
+  ],
   "/sourceforge/:routeParams?": [
     "JimenezLi"
   ],
@@ -5845,6 +5876,9 @@
   "/swjtu/jtys/yjs": [
     "qizidog"
   ],
+  "/swjtu/scai/bks": [
+    "AzureG03"
+  ],
   "/swpu/bgw/:code": [
     "CYTMWIA"
   ],
@@ -6025,6 +6059,9 @@
   ],
   "/thehindu/topic/:topic": [
     "TonyRL"
+  ],
+  "/theinitium/app/:category?": [
+    "quiniapiezoelectricity"
   ],
   "/theinitium/author/:type/:language?": [
     "AgFlore"
@@ -6682,6 +6719,9 @@
   ],
   "/wise/pair/:source/:target": [
     "HenryQW"
+  ],
+  "/withgoogle/explorables": [
+    "cesaryuan"
   ],
   "/wizfile/updates": [
     "Fatpandac"
