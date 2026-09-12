@@ -1,6 +1,7 @@
-import { DataItem, Route } from '@/types';
 import { load } from 'cheerio';
-import { ofetch } from 'ofetch';
+
+import type { DataItem, Route } from '@/types';
+import ofetch from '@/utils/ofetch';
 import { parseDate } from '@/utils/parse-date';
 
 export const route: Route = {
@@ -32,7 +33,7 @@ async function handler() {
 
     return {
         title: 'Devtrium',
-        language: 'en-us',
+        language: 'en-us' as const,
         item: items,
         link: 'https://devtrium.com',
     };
